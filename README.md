@@ -1,3 +1,3 @@
 # DriverCheck
 
-Simple, lightweight NVIDIA driver update checker.
+Simple, lightweight tool to check for NVIDIA driver updates. Supports Windows only.
